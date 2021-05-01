@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+
+
+
+.know{    text-align: center;
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+ ul li a{
+    color:rgb(103, 103, 221);
+   
+    text-transform: capitalize;
+    text-align: center;
+    
+    
+} 
+
+ul{
+    font-size: 20px;
+   list-style: none;
+   font-family: 'New Tegomin', serif;
+    
+    
+
+}
+
+
+h2{
+    text-transform: uppercase;
+    font-family: 'New Tegomin', serif;
+    
+}
